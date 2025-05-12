@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "fswd ca-1",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
